@@ -1,4 +1,4 @@
-name: Hello World Workflow (Dispatch with Env Variables)
+name: Hello World Workflow (Push with Env Variables)
 
 # Trigger the workflow via github console and using variables inputs
 on:
